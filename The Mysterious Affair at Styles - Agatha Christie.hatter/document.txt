@@ -3763,8 +3763,8 @@ the evening of the 17th. Poirot and I had, of course already seen it.
 It added nothing to our knowledge of the tragedy. The following is a
 facsimile:
 
-<h2  class='title'>STYLES COURT</h2>
-<h2 class='title'>ESSEX hand written note:  July 17th My</h2>
+<strong>STYLES COURT<br />
+ESSEX hand written note:  July 17th My</strong>
 
 <blockquote>     dear Evelyn</blockquote>
 
